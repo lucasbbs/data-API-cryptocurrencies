@@ -1,5 +1,1 @@
-# Digital Innovation One
-Projeto Web utilizando a API Coin Market Cap <br>
-[Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
-[Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication) <br>
-[Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
+# Projeto desenvolvido por Lucas Breno de Souza Noronha Braga as part of the process to obtaining the certification for the bootcamp Digital Innovation One Everis
