@@ -57,6 +57,7 @@
           }
           console.log(result);
           for (let i in result) {
+            if (!result[i].id) next;
             index = i;
             texto =
               texto +
