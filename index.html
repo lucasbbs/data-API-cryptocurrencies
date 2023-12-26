@@ -18,7 +18,7 @@
       </ol>
     </nav>
 
-    <p>
+    <p id="moesif-warning">
       In order for you to check the cryptocurrency data, please use the Moesif
       CORS chrome extension
     </p>
@@ -55,7 +55,8 @@
             //     //Show API information
             result.push({ id: api.data[i + 1] });
           }
-          console.log(result);
+          const warning = document.querySelector('#moesif-warning');
+          warning.remove()
           for (let i in result) {
             if (!result[i].id) continue;
             index = i;
